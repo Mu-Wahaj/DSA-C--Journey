@@ -28,9 +28,10 @@ Clone this repository and start exploring the solutions and notes:
 
 bash
 Copy code
-git clone https://github.com/your-username/dsa-learning-cpp.git
+git clone https://github.com/Mu-Wahaj/DSA-C--Journey.git
 📝 Contribution<br/><hr/>
 Feel free to contribute by suggesting new problems, optimizing existing solutions, or adding new topics. Open a pull request or an issue, and let's collaborate!<br/>
+connect with me :: mwahajjutt123@gmail.com 
 thanks'<br/>
 happy! cording 
 
