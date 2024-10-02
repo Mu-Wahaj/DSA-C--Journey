@@ -6,9 +6,7 @@ using namespace std;
    {
        arr[i]=2*arr[i];
    }
-   
     }
-
 int main()
 {
     // arrayys
