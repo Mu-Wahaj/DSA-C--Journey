@@ -76,31 +76,7 @@ void uniqueVal(int numbers[], int siz)
 
     cout << endl;
 }
-void findUniqueValues(int number[], int s)
-{
-    cout << "Unique values in the array: ";
 
-    for (int i = 0; i < s; i++)
-    {
-        bool isUnique = true;
-
-        for (int j = 0; j < s; j++)
-        {
-            if (i != j && number[i] == number[j])
-            {
-                isUnique = false;
-                break;
-            }
-        }
-
-        if (isUnique)
-        {
-            cout << number[i] << " ";
-        }
-    }
-
-    cout << endl;
-}
 
 void findIntersection(int arr1[], int s1, int arr2[], int s2)
 {
