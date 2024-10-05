@@ -1,13 +1,11 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
 int main()
 {
     //     // vectors
     //     vector<int>vec={1,2,3};
     //     cout<<vec[0]<<endl;
-
     //     // for each loop
     //     vector<char>vector={'a','c','d','g','f'};
     // for (char val:vector)
@@ -34,13 +32,11 @@ int main()
     cout << vectors.front() << endl; // print the  front/first value
     cout << vectors.back() << endl;  // print the  end/back value
     cout << vectors.at(5) << endl;   // print the  specific  value  at some index
-
     //  size and capcity of a vector when we push somthing i.e capcity incarese with 2x 
     vector<int> ve;
     ve.push_back(0);
     ve.push_back(1);
     ve.push_back(2);
-    
     cout << ve.size() << endl;
     cout << ve.capacity() << endl;
     return 0;
